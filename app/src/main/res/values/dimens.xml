@@ -1,0 +1,10 @@
+<resources>
+
+    <dimen name="scroll_view_height">400dp</dimen>
+
+    <dimen name="item_height">60dp</dimen>
+    <dimen name="top">10dp</dimen>
+    <dimen name="bottom">10dp</dimen>
+    <dimen name="start">20dp</dimen>
+    <dimen name="end">20dp</dimen>
+</resources>
